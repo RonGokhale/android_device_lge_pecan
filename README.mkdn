@@ -1,1 +1,9 @@
 THIS DEVICE FOLDER BASED ON MY CM DEVICE FODLER BUT EDTED TO BEST WORK WITH AOSP GB,OMFGB AND OMGB 
+
+
+HOW TO USE 
+
+
+git clone git://github.com/cipsgokhle/android_device_lge_pecan.git
+
+and start to waste your time 
